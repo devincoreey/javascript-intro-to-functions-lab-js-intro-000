@@ -18,6 +18,6 @@ function sayHiToGrandma(word){
     return "YES INDEED!"
   }
   else if ("I love you, Grandma."){
-    return ""
+    return "I love you, too."
   }
 }
