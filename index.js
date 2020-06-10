@@ -11,4 +11,6 @@ function logWhisper(word){
   console.log(whisper(word))
 }
 function sayHiToGrandma(word){
-  if (""
+  if ("I love you, Grandma.") {
+    return "I love you, too"
+  }
